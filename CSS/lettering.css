@@ -1,0 +1,486 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;700&display=swap');
+
+.faq_faq {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#profile_user .agent_profile_dep {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.faq_faq h3 {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.faq_faq p {
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+.faq_faq_header a {
+    text-decoration: none;
+}
+
+.top_bar_button {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+    text-decoration: none;
+}
+
+.new_faq_window label {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
+
+.new_faq_window div > input[type="submit"] {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+}
+
+.new_faq_window div > input[type="button"] {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+}
+
+#main_header h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.8em;
+    text-shadow: 1px 0 #000, -1px 0 #000, 0 1px #000, 0 -1px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+#main_header h1 a {
+    text-decoration: none;
+}
+
+#right_side {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+#right_side a {
+    text-decoration: none;
+}
+
+#side_bar a {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+#side_bar a span {
+    font-size: 2em;
+}
+
+#main_footer {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.main_title {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.7em;
+}
+
+#new_ticket_form {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#sub_button {
+    font-weight: 700;
+    font-size: 1.1em;
+}
+
+.cancel_ticket {
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
+
+#profile_editor_button {
+    text-decoration: none;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+#profile_user p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+#profile_user p:first-child {
+    font-weight: 700;
+}
+
+#profile_user p:last-child {
+    font-size: 1rem;
+}
+
+#profile_user p:nth-child(2) {
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+#bio p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.admin_promoter_profile, .agent_promoter_profile {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.8rem;
+}
+
+#login, #register {
+    text-align: center;
+}
+
+#login label, #register label {
+    text-align: left;
+    font-size: medium;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#login h2, #register h2{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#login p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 15px;
+}
+
+#ticket_info_main h3 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+#ticket_info_main p:not([class="ticket_tag"]) {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.1em;
+}
+
+#ticket_info_main a {
+    text-decoration: none;
+}
+
+.focused_ticket_text {
+    text-align: justify;
+}
+
+.focused_ticket_info {
+    font-size: 0.8em;
+}
+
+.focused_ticket_info div form select, .focused_ticket_info div form button {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.8rem;
+}
+
+.outer_tags label {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.6rem;
+}
+
+.ticket_tag {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 0.95rem;
+}
+
+.focused_ticket_tags {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.focused_ticket_tags div a {
+    text-decoration: none;
+}
+
+.focused_ticket_tags div button {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+.focused_ticket_comments h4 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+.focused_ticket_comment_poster {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.focused_ticket_comment_text {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.focused_ticket_comment_date {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.comment_maker label {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+}
+
+.comment_maker input[type="submit"]{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.6rem;
+}
+
+#edit_ticket {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+    text-decoration: none;
+}
+
+#filters {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
+
+.filter_checker {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.ticket a {
+    text-decoration: none;
+}
+
+.ticket a:hover {
+    text-decoration: underline;
+}
+
+.ticket_title {
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.ticket_deadline {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.ticket_tags {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    font-style: italic;
+}
+
+.ticket_department, .ticket_agent, .ticket_status, .ticket_date, .ticket_user {
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.ticket article :not(.ticket_text, .ticket_title, .ticket_tags, .ticket_user_img, .ticket_destroyer) {
+    font-weight: 700;
+    font-size: 13px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.ticket_destroyer {
+    font-weight: 700;
+    font-size: 13px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#management_main {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
+
+#agent_list p, #client_list p {
+    text-align: center;
+}
+
+.client_list_item a, .agent_list_item a {
+    text-decoration: none;
+}
+
+#manage_buttons label {
+    text-align: center;
+    text-decoration: none;
+}
+
+#manage_buttons div form label {
+    font-weight: 400;
+}
+
+.department_list_admin_item, .status_list_admin_item {
+    font-weight: 400;
+}
+
+.close-button {
+    font-size: 40px;
+}
+
+#login_button {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+#settings_sidebar {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+}
+
+#settings_sidebar nav {
+    font-size: large;
+}
+
+#settings {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#settings button {
+    font-family: 'Oxygen', sans-serif;
+}
+
+#settings h2 {
+    font: bolder;
+}
+
+#settings .account .popup .close {
+    font-weight: bolder;
+}
+
+.no_access {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.logout button {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.8rem;
+}
+
+#submit_sort {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.8rem;
+}
+
+#not_found {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.low, .medium, .high, .urgent {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.priority {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.ticket_info_bottom * {
+    text-align: center;
+}
+
+.error_message {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+#register .error_message, #settings .error_message {
+    font-size: 1em;
+}
+
+.required {
+    font-size: 0.8rem;
+}
+
+#tag_adder {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+}
+
+.agent_promotion select {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.agent_list_item_department {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.agent_list_item_name, .client_list_item_name {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+#ticket_closer {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+}
+
+#new_department {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+}
+
+#dep_changer {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+}
+
+.top_bar_info div:first-of-type p {
+    font-style: italic;
+}
