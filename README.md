@@ -3,8 +3,10 @@
 
 This website was developed as the final project for the LTW course unit in the 2^nd^ year of the [Bachelor's degree in Software Engineering @ FEUP](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841), by a team composed by [me](https://github.com/XavierPimentaSantos), [João Ribeiro](https://github.com/jacribeiro) and [Domingos Neto](https://github.com/domingosneto03).
 
-To use the website, download the files and open WSL (with PHP and SQLite3 installed) on the directory where you extracted the files to; run the following commands:
+To use the website, download the files and open WSL on the directory where you extracted the files to; run the following commands:
 ```
+example-project-directory$ sudo apt-get update
+example-project-directory$ sudo apt-get install php-cli sqlite3 php-sqlite3 unzip wget
 example-project-directory$ sqlite3 ./database/mango.db < ./database/mango.sql
 example-project-directory$ php -S localhost:9000
 ```
